@@ -2,9 +2,9 @@
 
 
 
-const weatherForm = document.querySelector('form')
+const weatherForm = document.querySelector('form');
 
-const search = document.querySelector('input')
+const search = document.querySelector('input');
 
 const weatherResponse = document.getElementById('weather-data')
 
